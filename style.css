@@ -42,7 +42,7 @@ canvas {
 
     max-width: 95vw;
 
-    width: 800px;
+    width: min(85vw, 800px);
 
     height: auto;
 
