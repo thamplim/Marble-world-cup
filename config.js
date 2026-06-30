@@ -1,0 +1,18 @@
+export const CONFIG = {
+
+    WIDTH:1000,
+    HEIGHT:600,
+
+    FPS:120,
+
+    BALL_RADIUS:24,
+    BALL_SPEED:600,
+
+    MATCH_TIME:30,
+
+    GOAL_SIZE:180,
+
+    SPEED_UP_INTERVAL:15,
+    SPEED_UP_AMOUNT:1.08
+
+};
